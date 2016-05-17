@@ -1,6 +1,6 @@
-## Plugin para Chrome
+## Plugin para Google Chrome
 
 Transforme todas as imagens de um site em fotos do Jaílson Mendes.
 
-Inpirado no nVampeta:
+Inspirado no nVampeta:
 https://chrome.google.com/webstore/detail/nvampeta/pebnbbhfnlmonnpbnbkmjfffmngddnbg
