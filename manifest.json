@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "nVampeta",
-	"version": "1.2",
-	"description": "Troque todas as imagens do site por fotos do Vampeta.",
+	"manifest_version": 1,
+	"name": "nDelicia",
+	"version": "1.0",
+	"description": "Troque todas as imagens do site por fotos do Jaílson Mendes.",
 	"icons": {
     	"48": "icon48.png",
         "128": "icon128.png"
@@ -10,7 +10,7 @@
 	"content_scripts": [
 	    {
 	      "matches": ["*://*/*"],
-	      "js": ["jquery.js", "nVampeta.js"]
+	      "js": ["jquery.js", "nDelicia.js"]
 	    }
   	]
 }
